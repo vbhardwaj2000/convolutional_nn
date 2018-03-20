@@ -1,2 +1,2 @@
 # convolutional_nn
-![]images/CNN_training_image.png
+![](images/CNN_training_image.png)
